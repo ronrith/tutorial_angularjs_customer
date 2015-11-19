@@ -1,0 +1,12 @@
+h3{
+	font-size: 2em;
+	font-weight: bold;
+	text-shadow: 2px 2px 3px #CBCBCB;
+}
+.list-group{
+	height: 400px;
+	overflow: auto;
+}
+.input-group-addon{
+	width: 120px;
+}
